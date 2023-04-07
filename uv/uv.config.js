@@ -2,7 +2,7 @@
 
 self.__uv$config = {
   prefix: "/uv/service/",
-  bare: "https://ultravioletproxy.duckdns.org:9080/",
+  bare: "https://park.lozan.com/bare/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/uv/uv.handler.js",
